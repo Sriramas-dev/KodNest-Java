@@ -21,6 +21,7 @@ public class SwitchPgm {
             default:
                 System.out.println("Invalid number");
         }
+
     }
 
 }
