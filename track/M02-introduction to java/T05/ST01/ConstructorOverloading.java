@@ -8,6 +8,7 @@ public class ConstructorOverloading {
         s1.display();
 
         Student s2 = new Student();
+
         s2.display();
     }
 }
