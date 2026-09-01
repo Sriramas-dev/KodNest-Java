@@ -23,6 +23,5 @@ public class twoDArray1 {
             }
             System.out.println();
         }
-
     }
 }
